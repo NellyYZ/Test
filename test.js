@@ -1,4 +1,4 @@
-const test = "test"
+onst test = "test"
 alert("Привіт")
 
 
@@ -6,5 +6,7 @@ alert("Привіт")
 
 
 
-
+homework
+homework
+homework
 lablabla
