@@ -1,3 +1,17 @@
+master
+onst test = "test"
+alert("Привіт")
+
+
+
+
+
+
+homework
+homework
+homework
+lablabla
+
 const test = "test"
 alert("Приві
 
@@ -12,3 +26,4 @@ ddddddddd
 eeeeeeee
 ffffffff
 ablabl
+ main
